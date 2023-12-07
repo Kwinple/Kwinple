@@ -7,7 +7,7 @@ Coding Software For Fun!
 I don't work for any company, nor am I self-employed, I just simply enjoy coding for fun!
 
 *   🌍  I'm based in Scotland, Glasgow
-*   ✉️  You can contact me at [kwinple24@gmaill.com](mailto:kwinple24@gmail.com)
+*   ✉️  You can contact me at [kwinple24@gmail.com](mailto:kwinple24@gmail.com)
 *   🧠  I'm learning HTML, Python and JavaScript
 *   🤝  I'm open to collaborating on any projects that involve Software or Game development
 *   ⚡  My Favourite animal is a Koala!🐨
